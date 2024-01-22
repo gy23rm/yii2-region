@@ -1,0 +1,23 @@
+{
+    "name": "by/yii2-region",
+    "description": "Yii2中国省市区三级联动",
+    "keywords": [
+        "yii2","region","province","city","district"
+    ],
+    "type": "yii2-widget",
+    "license": "BSD-3-Clause",
+    "authors": [
+        {
+            "name": "zh9025",
+            "email": "zh9025@qq.com"
+        }
+    ],
+    "require": {
+        "yiisoft/yii2": "*"
+    },
+    "autoload": {
+        "psr-4": {
+            "by\\region\\": ""
+        }
+    }
+}
