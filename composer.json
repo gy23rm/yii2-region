@@ -1,5 +1,5 @@
 {
-    "name": "by/yii2-region",
+    "name": "gy23rm/yii2-region",
     "description": "Yii2中国省市区三级联动",
     "keywords": [
         "yii2","region","province","city","district"
@@ -8,8 +8,8 @@
     "license": "BSD-3-Clause",
     "authors": [
         {
-            "name": "zh9025",
-            "email": "zh9025@qq.com"
+            "name": "gy23rm",
+            "email": "951583433@qq.com"
         }
     ],
     "require": {
