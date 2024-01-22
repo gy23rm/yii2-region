@@ -1,4 +1,13 @@
+# yii2-region
+Yii2 中国省市区三级联动(https://github.com/gy23rm/yii2-region)
 
+## 安装
+
+添加到你的composer.json文件
+
+```
+"gy23rm/yii2-region": "main"
+```
 
 ## 配置
 
