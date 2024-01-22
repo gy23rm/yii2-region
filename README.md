@@ -1,13 +1,4 @@
-# yii2-region
-Yii2 中国省市区三级联动(https://github.com/chenkby/yii2-region)
 
-## 安装
-
-添加到你的composer.json文件
-
-```
-"chenkby/yii2-region": "dev-master"
-```
 
 ## 配置
 
